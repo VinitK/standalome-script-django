@@ -1,11 +1,11 @@
-#Setup
+# Setup
 
 Clone Project
 
 Open standalone_example:
 `cd standalone_example`
 
-#Run the following
+# Run the following
 
 `python manage.py migrate`
 
